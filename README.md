@@ -1,3 +1,3 @@
-## Trabalho de Laboratorio de Programacao ###
+Trabalho de Laboratorio de Programação I
 
-**Projeto B.A.R.E.S
+** PROJETO B.A.R.E.S. **
